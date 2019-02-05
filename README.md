@@ -13,7 +13,7 @@ Verify that your Account type is Lite on the Billing page as shown in the image 
 
 If your account is not a free Lite account you need to sign up for a new IBM Cloud account with a different email address to take advantage of this offer.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/lite-account-warning-1024x602.png)
 
 
 Lite Account required
