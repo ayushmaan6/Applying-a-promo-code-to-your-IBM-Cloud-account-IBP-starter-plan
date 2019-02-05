@@ -1,0 +1,1 @@
+# Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan
