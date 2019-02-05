@@ -1,6 +1,9 @@
 # Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan
-###Applying a promo code to your IBM Cloud account
-This page will teach you how to apply a promo code to your existing IBM Cloud Lite account and starting the. If you don’t have an IBM Cloud Lite account [register here](https://cocl.us/IBM_CLOUD_PROMO).
+
+### Applying a promo code to your IBM Cloud account
+
+This page will teach you how to apply a promo code to your existing IBM Cloud Lite account and accessing the IBM Blockchain Starter Plan. If you don’t have an IBM Cloud Lite account [register here](https://cocl.us/IBM_CLOUD_PROMO).
+The resources have been taken from https://cognitiveclass.ai/applying-ibm-cloud-promo-code/
 
 **Step 1:** Access your [Account Settings](https://cloud.ibm.com/account/settings)
 Visit the Account Settings page for your IBM Cloud account. If you are not already logged in, you’ll be asked to do so now.
@@ -9,6 +12,9 @@ Visit the Account Settings page for your IBM Cloud account. If you are not alrea
 Verify that your Account type is Lite on the Billing page as shown in the image below.
 
 If your account is not a free Lite account you need to sign up for a new IBM Cloud account with a different email address to take advantage of this offer.
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 
 Lite Account required
 
