@@ -48,7 +48,7 @@ Trial verification
 
 **Step 6:** Go to the catalog and search for [Blockchain](https://console.bluemix.net/catalog/services/blockchain).
 Choose your location, organization and space.
-![alt text](hhttps://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/blockchain-service.png)
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/blockchain-service.png)
 
 Click on the launch buton.
 ![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/IBP-started.png)
