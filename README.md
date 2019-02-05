@@ -21,28 +21,30 @@ Lite Account required
 **Step 3:** Ignore other offers
 Our promo code will allow you to receive $1,200 worth of services over a period of 6 months without adding a credit card. Do not accept any other offer the page might offer you, or you will not be able to apply our code. It’s not possible to take advantage of both offers.
 
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/ignore-200-offer-1024x563.png)
 Ignore the $200 offer
 
 **Step 4:** Apply the promo code
 Scroll down to locate Find Feature (Promo) Codes and click on the Apply code button as shown in the picture below.
 
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/apply-code-1024x579.png)
 Click Apply code
 
 Copy the code below and paste it into the Promo Code window that appears like shown in the redacted image below.
 
-Promo Code
-
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/promo-code-1024x573.png)
 Click the Apply button.
 
 If you get an error, click Retry as shown below.
-
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/retry.png)
 Retry
 
 **Step 5:** Your account has now been upgraded
 If you followed the steps correctly, congratulations, your account type should now go from Lite to Trial. You’ll have access to standard IBM Cloud services for the next 6 months (a value of $1,200 USD).
 
 You can verify this atop the Billing page as shown in the image below.
-
+![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/trial-verification-1024x283.png)
 Trial verification
 
+**Step 6:** Click on Manage -> Billing and usage -> 
 
