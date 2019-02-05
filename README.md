@@ -46,5 +46,6 @@ You can verify this atop the Billing page as shown in the image below.
 ![alt text](https://github.com/ayushmaan6/Applying-a-promo-code-to-your-IBM-Cloud-account-IBP-starter-plan/blob/master/trial-verification-1024x283.png)
 Trial verification
 
-**Step 6:** Click on Manage -> Billing and usage -> 
+**Step 6:** Go to the catalog and search for [Blockchain](https://console.bluemix.net/catalog/services/blockchain).
+
 
